@@ -1,0 +1,10 @@
+{
+  "name": "proof-of-concept-driving-license-validator",
+  "version": "0.0.0",
+  "main": "src/api.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "puppeteer": "^23.11.1"
+  }
+}
